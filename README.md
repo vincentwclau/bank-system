@@ -25,6 +25,6 @@
   - What difficulties did you encounter during the test?
   - What things should the tester aware during the test?
 
-## Deliverables for this test
+## Test Deliverables
 - Your Github repo.
 - The zoom recording.
