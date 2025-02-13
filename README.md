@@ -6,7 +6,7 @@
 - Record the test process by Zoom 
 - During the recording, share the whole screen and record your sound.
 - If you can pass all test cases, it does means "complete".
-- If you can complete all test cases before 50 minutes, you can start with the explaination section earlier in the video.
+- If you can complete all test cases before 60 minutes, you can start with the explaination section earlier in the video.
 - If you cannot complete the coding within 60 minutes, you still need to start the explaination part.
 - The explaination part should be in either Cantonese, Mandarin or English.
 - One single video for all parts (preparation + coding + explaination), at most 80 minutes.
