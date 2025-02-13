@@ -2,7 +2,7 @@
 - Test duration: 80 minutes, consist of:
   - 5 minutes preparation
   - 60 minutes coding
-  - 10 minutes explaination after the coding
+  - 15 minutes explaination after the coding
 - Record the test process by Zoom 
 - During the recording, share the whole screen and record your sound.
 - If you can pass all test cases, it does means "complete".
